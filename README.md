@@ -8,3 +8,5 @@ conda env create --file env.yaml
 ```
 python eval.py --trained_model=./craft_ic15_20k.pth --test_folder=./icdar2015_rain [--derain]
 ```
+ToDo
+- [ ] Training code: we need to clarify which ablation studies will be conducted.
